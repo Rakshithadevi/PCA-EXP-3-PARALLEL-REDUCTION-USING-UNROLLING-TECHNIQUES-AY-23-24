@@ -47,6 +47,10 @@ Memory Deallocation
 NAME: Rakshitha Devi J
 Reg no:212221230082
 ```
+```
+!pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
+%load_ext nvcc4jupyter
+```
 ## Unrolling8
 ```
 %%cuda
